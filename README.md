@@ -69,6 +69,7 @@ Clients can explore categories, browse through worker profiles, request services
 📹 Demo Videos:
 ---------------------------------------------
 - Check the Video demo [here](https://drive.google.com/drive/folders/13aa7CKVZ0TGghYHN_4_ewUMatCXsGylU?usp=drive_link)
+
 **----------------------------------------------**
   Current Status:
   - The app is currently very much static.
@@ -76,7 +77,9 @@ Clients can explore categories, browse through worker profiles, request services
   - The user can create a client account or a worker account all through their own.
   - Testing: Client: abc@gmail.com | pw: 12345678
              Worker: def@gmail.com | pw: 12345678
-  - apk attached 
+  - apk attached
+
+
   ToDo:
   - We plan on making the app dynamic and support changes and display it.
   - Payment gateway is under tha plan.
