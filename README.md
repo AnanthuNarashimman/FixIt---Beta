@@ -64,6 +64,11 @@ Clients can explore categories, browse through worker profiles, request services
 - **Firebase Auth** for authentication and user role management  
 - **Google Fonts** for custom styling  
 - **Provider / Stateful Widgets** for basic state management
+
+---------------------------------------------
+📹 Demo Videos:
+---------------------------------------------
+- Check the Video demo [here](https://drive.google.com/drive/folders/13aa7CKVZ0TGghYHN_4_ewUMatCXsGylU?usp=drive_link)
 **----------------------------------------------**
   Current Status:
   - The app is currently very much static.
