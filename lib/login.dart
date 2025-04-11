@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'signup.dart';
-import 'userhomepage.dart';
 import 'package:cloud_firestore/cloud_firestore.dart'; 
 
 class Log extends StatefulWidget {

@@ -227,7 +227,7 @@ class _WorkerHomePageState extends State<WorkerHomePage> {
                     ],
                   ),
                 );
-              }).toList(),
+              }),
 
               const SizedBox(height: 100),
             ],
