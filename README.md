@@ -70,7 +70,7 @@ Clients can explore categories, browse through worker profiles, request services
 ---------------------------------------------
 - Check the Video demo [here](https://drive.google.com/drive/folders/13aa7CKVZ0TGghYHN_4_ewUMatCXsGylU?usp=drive_link)
 
-**----------------------------------------------**
+----------------------------------------------
   Current Status:
   - The app is currently very much static.
   - The app can be logged in and logged out and is hosted in firebase.
